@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '昨夜星辰昨夜风',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oIcCA6MXtJ4bjAr2GyogY62g8uJo',
+      id: '	yTQOA6fLjhnlXaBSmPt7eM7D5a-eU2UZF_rcDB_H0UE',
     }
   ],
 
